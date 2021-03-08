@@ -1,0 +1,41 @@
+body {
+    background: url(images/dinosaur-5995333_640.png) no-repeat center center fixed ;
+    background-size:cover;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'DotGothic16', sans-serif;
+    
+}
+
+.hero {
+    color: rgb(97, 99, 99);
+    margin-top: 10%;
+    /* text-align: center; */
+    font-size: 75= 40px;
+    letter-spacing: -.02em;
+    background-color:cornsilk;
+    opacity: 0.7;
+}
+.hero-container {
+   
+}
+.row-container {
+   
+    height: 200px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.footer{
+    border: 1px solid red;
+    height: 50px;
+    bottom: 0;
+   position: absolute;
+    width: 100%;
+    font-size: 20px;
+    background-color:black;
+    color: blanchedalmond;
+}
